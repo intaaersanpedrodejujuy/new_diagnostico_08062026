@@ -10,8 +10,7 @@ const FILES = {
     mapeo: FOLDER + 'mapeo_localizacion.csv',
     grupos: FOLDER + 'grupo_manifestacion.csv',
     manifestaciones: FOLDER + 'sintomas_signos.csv',
-    criterios: FOLDER + 'manifestacion.csv',
-    manifestacionLocalizacion: FOLDER + 'manifestacion_localizacion.csv', 
+    criterios: FOLDER + 'manifestacion.csv', 
     manejo: FOLDER + 'manejo_seguridad.csv'
 };
 
@@ -75,12 +74,7 @@ async function init() {
         });
 
         console.log('BASE:', db);
-
-///alert('SCRIPT NUEVO CARGADO');
-	console.log(
-             'Manifestacion_Localizacion:',
-             db.manifestacionLocalizacion
-);
+		
         poblarMenuInicial();
 
     }
