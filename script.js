@@ -76,10 +76,11 @@ async function init() {
 
         console.log('BASE:', db);
 
-	console.log(
-             'Manifestacion_Localizacion:',
-             db.manifestacionLocalizacion
-);
+alert('SCRIPT NUEVO CARGADO');
+///	console.log(
+///             'Manifestacion_Localizacion:',
+///             db.manifestacionLocalizacion
+///);
         poblarMenuInicial();
 
     }
