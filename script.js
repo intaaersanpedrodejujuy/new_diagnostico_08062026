@@ -79,7 +79,7 @@ async function init() {
 	console.log(
              'Manifestacion_Localizacion:',
              db.manifestacionLocalizacion
-
+);
         poblarMenuInicial();
 
     }
