@@ -1,0 +1,10 @@
+ID_Grupo;Grupo;Ejemplo
+G01;Marchitamiento;Planta caída o sin turgencia
+G02;Amarillamiento;Hojas amarillas o cloróticas
+G03;Manchas;Lesiones localizadas en hojas, tallos o frutos
+G04;Necrosis / Quemado;Tejido seco, marrón o negro
+G05;Moho / Micelio superficial;Pelusa, polvo o crecimiento fúngico visible
+G06;Pudriciones;Tejido blando o descompuesto
+G07;Deformaciones;Hojas, tallos o frutos deformados
+G08;Problemas vasculares;Oscurecimiento interno, marchitez unilateral, vasos marrones
+G09;Problemas de crecimiento o desarrollo;Enanismo, debilitamiento, falta de vigor
