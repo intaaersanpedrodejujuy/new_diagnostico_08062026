@@ -42,7 +42,7 @@ ID;ID_Manifestacion;IdLocalizacion;Descripcion_corta_organo;Imagen
 41;S36;;Hojas con formas extrañas, alargadas y retorcidas.;
 42;S36;;;
 43;SG01;L05;Ceniza o polvillo blanco que cubre el follaje.;
-44;SG02;L04;Pelusa blanca similar al algodón sobre tejidos podridos.;
+44;SG02;L04;Pelusa blanca similar al algodón sobre tejidos podridos.;images/sintomas/tallo_sclerotinia_sclerotiorum.png
 45;SG03;L04;Piedritas negras pequeñas dentro o fuera del tallo.;
 46;SG04;L02;Hilos blancos como raíces finas sobre la base del tallo.;
 47;SG05;L03;Bolitas caf‚ como semillas sobre el cuello de la planta.;
