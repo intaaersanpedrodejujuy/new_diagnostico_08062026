@@ -1,0 +1,52 @@
+ID;ID_Manifestacion;IdLocalizacion;Descripcion_corta_organo;Imagen
+1;S01;L04;Manchas necróticas circulares en la corteza del tallo.;images/sintomas/hoja_alternaria_solani.png
+2;S02;L03;Lesión de tejido muerto que ahorca la base de la plántula.;images/sintomas/tallo_alternaria_solani.png
+3;S02;L03;Lesión de tejido muerto que ahorca la base de la plántula.;
+4;S03;L04;Pequeñas pecas oscuras que se aclaran en el centro.;images/sintomas/hoja_stemphylium_solani.png
+5;S04;L05;Múltiples huecos en la hoja por caída de tejido muerto.;
+6;S05;L08;Planta que se desmaya por falta de agua durante el día.;
+7;S06;L05;Hojas de la parte inferior que se tornan amarillas.;
+8;S07;L02;Coloración marrón en el interior al cortar la raíz.;
+9;S07;;Haces vasculares (venas internas) de color caf‚ o negro.;
+10;S08;L05;Polvillo blanco circular en la cara superior de la hoja.;images/sintomas/hoja_oidium_lycopersiciy.png
+11;S10;L06;Flores que se secan o mueren por tejido necrótico.;images/sintomas/flor_botytris_cinerea.png
+12;S11;L07;Pecas negras o puntos oscuros sobre la piel del fruto.;
+13;S11;L07;Pecas negras o puntos oscuros sobre la piel del fruto.;
+14;S12;L05;µreas amarillas que se borronean hacia el verde de la hoja.;
+15;S13;L02;Raíz rajada con aspecto seco y corchoso.;
+16;S14;L04;Manchas h£medas que parecen empapadas en agua.;
+17;S14;L04;Manchas h£medas que parecen empapadas en agua.;
+18;S14;L04;Manchas h£medas que parecen empapadas en agua.;
+19;S14;L04;Manchas h£medas que parecen empapadas en agua.;
+20;S15;L05;Muerte del tejido en las puntas de hojas con forma de V.;
+21;S16;L05;Manchas que parecen impregnadas de aceite.;
+22;S17;L07;µreas necróticas color chocolate características del fruto.;
+23;S18;L08;Planta que se seca totalmente de forma muy rápida.;
+24;S19;L04;Centro del tallo caf‚ o vacío (hueco) al cortarlo.;
+25;S20;L05;Hojas ""caídas"" de un solo lado del eje central.;
+26;S21;L04;Bordes secos y líneas negras largas en la piel del tallo.;
+27;S22;L07;Mancha redonda con centro claro y borde oscuro.;
+28;S23;L04;Llagas o rajaduras abiertas en la corteza del tallo.;
+29;S25;L04;Piel del tallo oscura y blanda por descomposición.;
+30;S26;L07;Tomate que se aguachenta internamente por completo.;
+31;S27;L08;Planta que no crece y queda muy pequeña.;
+32;S27;L08;Planta que no crece y queda muy pequeña.;
+33;S28;L05;Hojas con parches amarillos y bordes enrollados.;
+34;S29;L05;Hojas muy finas reducidas solo al nervio central.;
+35;S30;L05;Hojas de color met lico o bronce con círculos.;
+36;S31;L07;Tomates mal formados con círculos concéntricos.;
+37;S32;L07;Tomate maduro que conserva parches verdes que no maduran.;
+38;S33;L08;Fideos o hilos amarillos que envuelven la planta.;
+39;S34;L04;Puntas de hojas y brotes quemados por la helada.;
+40;S35;L05;Amarillez intensa en el nacimiento de las hojas nuevas.;
+41;S36;;Hojas con formas extrañas, alargadas y retorcidas.;
+42;S36;;;
+43;SG01;L05;Ceniza o polvillo blanco que cubre el follaje.;
+44;SG02;L04;Pelusa blanca similar al algodón sobre tejidos podridos.;
+45;SG03;L04;Piedritas negras pequeñas dentro o fuera del tallo.;
+46;SG04;L02;Hilos blancos como raíces finas sobre la base del tallo.;
+47;SG05;L03;Bolitas caf‚ como semillas sobre el cuello de la planta.;
+48;SG06;L04;Hilos blancos que salen del tallo al ponerlo en agua.;
+49;SG07;L05;Capa vellosa color chocolate debajo de la hoja.;
+50;SG08;L07;Sustancia pegajosa color rosa sobre el tomate maduro.;
+51;SG09;L08;Red de hilos amarillos estrangulando el cultivo.;
