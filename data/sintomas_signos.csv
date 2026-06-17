@@ -1,0 +1,43 @@
+ID;Grupo;Descripcion;Tipo
+S01;G03;Manchas circulares café con anillos concéntricos;Síntoma
+S02;G04;Estrangulamiento marcado en el cuello de la planta;Síntoma
+S03;G03;Lesiones pequeñas castaño oscuro con centro claro;Síntoma
+S04;G03;Perforaciones en el tejido foliar (manchas que se desprenden);Síntoma
+S05;G01;Marchitamiento temporal o paulatino;Síntoma
+S06;G02;Amarillamiento de hojas basales;Síntoma
+S07;G08;Oscurecimiento de los vasos internos o tejido de conducción;Síntoma
+S08;G05;Manchas blancas circulares de aspecto polvoriento;Síntoma
+S10;G04;Lesiones necróticas en pétalos o cálices;Síntoma
+S11;G03;Manchas oscuras pequeñas en frutos;Síntoma
+S12;G02;Manchas amarillas con borde difuso en cara superior;Síntoma
+S13;G08;Resquebrajamientos longitudinales con aspecto de corcho;Síntoma
+S14;G06;Lesiones acuosas en tallo o fruto;Síntoma
+S15;G04;Necrosis en forma de 'V' en bordes foliares;Síntoma
+S17;G03;Zonas color chocolate en frutos;Síntoma
+S18;G01;Marchitamiento repentino e irreversible;Síntoma
+S19;G08;Médula del tallo marrón desintegrada o hueca;Síntoma
+S20;G01;Marchitamiento unilateral de hojas (un solo lado);Síntoma
+S21;G04;Necrosis en bordes de hojas y a lo largo del tallo;Síntoma
+S22;G03;Síntoma de 'ojo de pájaro' en fruto;Síntoma
+S23;G04;Formación de cancros (llagas) en el tallo;Síntoma
+S25;G06;Oscurecimiento externo del tallo (podredumbre);Síntoma
+S26;G06;Fruto con aspecto de bolsa de agua;Síntoma
+S27;G09;Achaparramiento y enanismo generalizado;Síntoma
+S28;G02;Moteado clorótico y acartuchamiento de hojas;Síntoma
+S29;G07;Hojas estrechas reducidas a la nervadura central;Síntoma
+S30;G04;Bronceado de hojas con anillos concéntricos;Síntoma
+S31;G07;Frutos deformados con lesiones circulares concéntricas;Síntoma
+S32;G09;Zonas verdes persistentes en fruto y pulpa madura;Síntoma
+S33;G09;Guías amarillas de maleza parásita;Síntoma
+S34;G04;Oscurecimiento de bordes foliares y brotes (frío);Síntoma
+S35;G02;Amarillamiento marcado en la base de hojas jóvenes;Síntoma
+S36;G07;Hojas deformadas en forma de punta de lanza o hilos;Síntoma
+SG01;G05;Aspecto pulverulento (polvillo blanco);Signo
+SG02;G05;Micelio blanco algodonoso sobre tejidos acuosos;Signo
+SG03;G05;Esclerocios negros de tamaño irregular;Signo
+SG04;G05;Rizomorfas blancas (micelio con aspecto de raíz);Signo
+SG05;G05;Esclerocios castaños esféricos;Signo
+SG06;G08;Zooglea (suspensión blanquecina en agua);Signo
+SG07;G05;Terciopelo de color marrón localizado en el envés;Signo
+SG08;G05;Masa gelatinosa rosada sobre lesiones de frutos;Signo
+SG09;G09;Guías de maleza envolviendo activamente la planta;Signo
