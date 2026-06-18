@@ -30,7 +30,7 @@ ID;ID_Manifestacion;IdLocalizacion;Descripcion_corta_organo;Imagen
 29;S25;L04;Piel del tallo oscura y blanda por descomposición.;images/sintomas/tallo_erwinia carotovora2.png
 30;S26;L07;Tomate que se aguachenta internamente por completo.;images/sintomas/fruto_erwinia carotovora.png
 31;S27;L08;Planta que no crece y queda muy pequeña.;images/sintomas/planta_begomovirus.png
-32;S27;L08;Planta que no crece y queda muy pequeña.NO REPITE;
+32;S27;L08;Planta que no crece y queda muy pequeña.NO REPITE;images/sintomas/planta_begomovirus.png
 33;S28;L05;Hojas con parches amarillos y bordes enrollados.;
 34;S29;L05;Hojas muy finas reducidas solo al nervio central.;images/sintomas/hoja_cucumber_mosaic_virus.png
 35;S30;L05;Hojas de color metálico o bronce con círculos.;images/sintomas/hoja_groundnut_ringspot_virus.png
