@@ -12,8 +12,8 @@ ID;ID_Manifestacion;IdLocalizacion;Descripcion_corta_organo;Imagen
 11;S10;L06;Flores que se secan o mueren por tejido necrótico.;images/sintomas/flor_botytris_cinerea.png
 12;S11;L07;Pecas negras o puntos oscuros sobre la piel del fruto.;images/sintomas/fruto_colletotrichum.png
 13;S11;L07;Pecas negras o puntos oscuros sobre la piel del fruto.NO?;images/sintomas/fruto_colletotrichum.png
-14;S12;L05;µreas amarillas que se borronean hacia el verde de la hoja.;
-15;S13;L02;Raíz rajada con aspecto seco y corchoso.;
+14;S12;L05;Áreas amarillas que se borronean hacia el verde de la hoja.;
+15;S13;L02;Raíz rajada con aspecto seco y corchoso.;images/sintomas/raiz_raiz_corchosa.png
 16;S14;L04;Manchas húmedas que parecen empapadas en agua.;
 17;S14;L04;Manchas húmedas que parecen empapadas en agua.;
 18;S14;L04;Manchas húmedas que parecen empapadas en agua.;
