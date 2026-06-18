@@ -38,7 +38,7 @@ ID;ID_Manifestacion;IdLocalizacion;Descripcion_corta_organo;Imagen
 37;S32;L07;Tomate maduro que conserva parches verdes que no maduran.;images/sintomas/fruto_toxinas_mosca_blanca.png
 38;S33;L08;Fideos o hilos amarillos que envuelven la planta.;
 39;S34;L04;Puntas de hojas y brotes quemados por la helada.;
-40;S35;L05;Amarillez intensa en el nacimiento de las hojas nuevas.;
+40;S35;L05;Amarillez intensa en el nacimiento de las hojas nuevas.;images/sintomas/hoja_deriva_herbicida.png
 41;S36;;Hojas con formas extrañas, alargadas y retorcidas.;
 42;S36;;;
 43;SG01;L05;Ceniza o polvillo blanco que cubre el follaje.;images/sintomas/hoja_oidium_lycopersici.png
