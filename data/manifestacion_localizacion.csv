@@ -23,7 +23,7 @@ ID;ID_Manifestacion;IdLocalizacion;Descripcion_corta_organo;Imagen
 22;S17;L07;Áreas necróticas color chocolate características del fruto.;images/sintomas/fruto_phytophthora_infestans.png
 23;S18;L08;Planta que se seca totalmente de forma muy rápida.;images/sintomas/planta_ralstonia_solanacearum.png
 24;S19;L04;Centro del tallo café o vacío (hueco) al cortarlo.;images/sintomas/tallo_pseudomonas_corrugata.png
-25;S20;L05;Hojas 'caídas' de un solo lado del eje central.;
+25;S20;L05;Hojas 'caídas' de un solo lado del eje central.;images/sintomas/hoja_clavibacter_michiganensis.png
 26;S21;L04;Bordes secos y líneas negras largas en la piel del tallo.;
 27;S22;L07;Mancha redonda con centro claro y borde oscuro.;images/sintomas/fruto_clavibacter_michiganensis.png
 28;S23;L04;Llagas o rajaduras abiertas en la corteza del tallo.;images/sintomas/tallo_clavibacter_michiganensis.png
