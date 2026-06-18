@@ -41,7 +41,7 @@ ID;ID_Manifestacion;IdLocalizacion;Descripcion_corta_organo;Imagen
 40;S35;L05;Amarillez intensa en el nacimiento de las hojas nuevas.;
 41;S36;;Hojas con formas extrañas, alargadas y retorcidas.;
 42;S36;;;
-43;SG01;L05;Ceniza o polvillo blanco que cubre el follaje.;
+43;SG01;L05;Ceniza o polvillo blanco que cubre el follaje.;images/sintomas/hoja_oidium_lycopersici.png
 44;SG02;L04;Pelusa blanca similar al algodón sobre tejidos podridos.;images/sintomas/tallo_sclerotinia_sclerotiorum.png
 45;SG03;L04;Piedritas negras pequeñas dentro o fuera del tallo.;images/sintomas/tallo_sclerotinia_sclerotiorum2.png
 46;SG04;L02;Hilos blancos como raíces finas sobre la base del tallo.;images/sintomas/raiz_sclerotium_rolfsii.png
